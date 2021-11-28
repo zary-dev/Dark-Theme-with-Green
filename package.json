@@ -1,0 +1,30 @@
+{
+    "name": "Zary",
+    "displayName": "Zary's Dark Theme Green",
+    "description": "Dark Theme with Green Font",
+    "version": "0.0.1",
+    "publisher": "zary",
+    "keywords": [
+        "Dark",
+        "dark theme",
+        "dark green",
+        "dark theme green",
+        "dark"
+
+    ],
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Theme with Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Theme with Green-color-theme.json"
+            }
+        ]
+    }
+}
